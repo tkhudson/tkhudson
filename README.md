@@ -1,5 +1,5 @@
 👋 Hi, I’m @tkhudson
-I’m interested in Cloud engineering and am hoping to become a DevOps Engineer. Currently working as an SRC Engineer.
+I’m interested in anything Cloud and am hoping to get into DevOps. Currently working as an SRC Engineer.
 How to reach me: Shoot me a message or find me on Linked In! https://www.linkedin.com/in/tyler-k-hudson/
 
 <!---

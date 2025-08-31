@@ -1,6 +1,6 @@
 busines:
 https://hudsonitconsulting.com/
-blog:
+<br>blog:
 https://tylerkhudson.com/
 
 <!---

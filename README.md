@@ -1,7 +1,4 @@
-busines:
-https://hudsonitconsulting.com/
-<br>blog:
-https://tylerkhudson.com/
+
 
 <!---
 tkhudson/tkhudson is a special repository because its `README.md` (this file) appears on your GitHub profile.

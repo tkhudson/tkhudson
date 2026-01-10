@@ -1,4 +1,7 @@
+# Hello, Tyler here!
 Welcome all! Here are a few projects I have worked on.
+
+## AI Integrated Projects
 
 ### Private RAG Knowledge Base Chatbot
 https://github.com/tkhudson/hudson-rag-bot

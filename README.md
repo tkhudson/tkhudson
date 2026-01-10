@@ -3,6 +3,12 @@
 Welcome to my GitHub!  
 I'm a **Cloud Engineer | DevOps | AI enthusiast** focused on infrastructure as code, Azure, automation, and intelligent tools.
 
+Certs:
+```
+2025	CompTIA Security+ | Cert Number: COMP001022568724 
+
+2024	AZ-900: Microsoft Azure Fundamentals | Cert Number: 6CADL4-5730A2
+```
 Here are some of my favorite projects:
 
 ## 🌐 Network / Azure / Infrastructure as Code
@@ -11,8 +17,9 @@ Here are some of my favorite projects:
 Modernizing legacy bash automation into clean, scalable Terraform IaC on Microsoft Azure  
 
 **Tools & Skills:**  
+```
 Azure · Terraform · Bash · F5 Networking
-
+```
 [→ View Repository](https://github.com/tkhudson/Bash-to-Terraform-Deployment)
 
 ## 🤖 AI Integrated Projects
@@ -21,23 +28,27 @@ Azure · Terraform · Bash · F5 Networking
 Your personal, secure, fully private document Q&A assistant powered by Retrieval-Augmented Generation  
 
 **Tools & Skills:**  
+```
 RAG · AI/LLMs · Vector Databases · Python
-
+```
 [→ View Repository](https://github.com/tkhudson/hudson-rag-bot)
 
 #### AI-Powered Customer Support Chatbot  
 Intelligent, context-aware support agent with natural conversation flow  
 
 **Tools & Skills:**  
+```
 Python · Conversational AI · Prompt Engineering  
-
+```
 [→ View Repository](https://github.com/tkhudson/AI-Powered-Customer-Support-Chatbot)
 
 #### AI Note Companion for Obsidian  
 Smart note enhancement, summarization, linking & insights right inside Obsidian  
 
 **Tools & Skills:**  
-Python · Obsidian API · Local LLMs · Note Automation  
+```
+Python · Obsidian API · Local LLMs · Note Automation
+```
 
 [→ View Repository](https://github.com/tkhudson/AI-Note-Companion-Obsidian)
 

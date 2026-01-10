@@ -1,6 +1,11 @@
 # Hello, Tyler here!
 Welcome all! Here are a few projects I have worked on.
 
+## Network / Azure / Infrastructure as Code
+
+### Custom Bash Scripts to Terraform Deployment in Azure
+https://github.com/tkhudson/Bash-to-Terraform-Deployment
+
 ## AI Integrated Projects
 
 ### Private RAG Knowledge Base Chatbot

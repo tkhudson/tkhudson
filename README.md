@@ -1,4 +1,13 @@
+Welcome all! Here are a few projects I have worked on.
 
+### Private RAG Knowledge Base Chatbot
+https://github.com/tkhudson/hudson-rag-bot
+
+### Customer Support Chatbot - Powered by AI
+https://github.com/tkhudson/AI-Powered-Customer-Support-Chatbot
+
+### Custom AI Note Companion made for Obsidian
+https://github.com/tkhudson/AI-Note-Companion-Obsidian
 
 <!---
 tkhudson/tkhudson is a special repository because its `README.md` (this file) appears on your GitHub profile.

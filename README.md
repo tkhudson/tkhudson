@@ -15,6 +15,7 @@ Here are some of my favorite projects:
 
 #### Zero Trust IoT Dashboard  
 A complete **Zero-Trust IoT security demonstration** using Azure resources, showcasing real IoT device simulation, security monitoring, and Infrastructure as Code (Terraform) best practices. 
+
 **Tools & Skills:**  
 ```
 Azure · Terraform · Bash · CyberSecurity 

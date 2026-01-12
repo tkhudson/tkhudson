@@ -1,6 +1,6 @@
-# Hello, I'm Tyler! 👋
+# Top of tha mornin! I'm Tyler! ⚡ ☕
 
-Welcome to my GitHub!  
+Welcome to my GitHub, sit and grab a coffee!  
 I'm a **Cloud Engineer | DevOps | AI enthusiast** focused on infrastructure as code, Azure, automation, and intelligent tools.
 
 Certs:

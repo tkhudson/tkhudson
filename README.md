@@ -1,7 +1,7 @@
 # Top of tha mornin! I'm Tyler! ⚡ ☕
 
 Welcome to my GitHub, sit and grab a coffee!  
-I'm a **Cloud Engineer | DevOps | AI enthusiast** focused on infrastructure as code, Azure, automation, and intelligent tools.
+I'm a **Cloud Engineer | DevSecOps enthusiast** focused on building secure systems with infrastructure as code, Azure, automation, and intelligent tools. Background in IT/Networking, CSP/MSP, and Cybersecurity.
 
 Certs:
 ```

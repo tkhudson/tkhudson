@@ -61,6 +61,15 @@ Python · Obsidian API · Local LLMs · Note Automation
 
 [→ View Repository](https://github.com/tkhudson/AI-Note-Companion-Obsidian)
 
+#### Script to Image-Storyline 
+Smart note enhancement, summarization, linking & insights right inside Obsidian  
+
+**Tools & Skills:**  
+```
+Python · API · Local LLMs · Image Gen
+```
+
+[→ View Repository](https://github.com/tkhudson/Script-to-Images-Generator)
 ---
 
 💡 Always happy to collaborate on cloud, automation, or AI projects!  

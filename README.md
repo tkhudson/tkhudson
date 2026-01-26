@@ -1,4 +1,4 @@
-#WHOAMI
+# WHOAMI
 ### Top of tha mornin! I'm Tyler! ⚡ ☕
 
 Welcome to my GitHub, sit and grab a coffee!  

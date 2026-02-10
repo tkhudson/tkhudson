@@ -10,7 +10,7 @@ Certs:
 
 2024	AZ-900: Microsoft Azure Fundamentals | Cert Number: 6CADL4-5730A2
 
-2026 Working towards Azure Security Engineer (AZ-500)
+2026  Working towards Azure Security Engineer (AZ-500)
 ```
 Here are some of my favorite projects:
 

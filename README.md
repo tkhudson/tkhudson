@@ -14,6 +14,15 @@ Here are some of my favorite projects:
 
 ## 🌐 Network / Azure / Infrastructure as Code
 
+#### Secure Azure Landing Zone
+A secure Azure landing zone blueprint that I designed and built for Hudson IT Consulting as a standardized, production-ready foundation for client migrations and internal environments, emphasizing zero-trust security, governance, and compliance from the first deployment.
+
+**Tools & Skills:**  
+```
+Azure · Terraform  · IAM 
+```
+[→ View Repository](https://github.com/tkhudson/Landing-Zone/)
+
 #### Zero Trust IoT Dashboard  
 A complete **Zero-Trust IoT security demonstration** using Azure resources, showcasing real IoT device simulation, security monitoring, and Infrastructure as Code (Terraform) best practices. 
 

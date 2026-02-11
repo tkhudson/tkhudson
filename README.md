@@ -6,7 +6,7 @@ I'm a **Cloud Engineer | DevSecOps enthusiast** focused on building secure syste
 
 Certs:
 ```
-2026  Working towards Azure Security Engineer (AZ-500)
+2026	Azure Security Engineer (Az-500) | Currently Studying 
 
 2025	CompTIA Security+ | Cert Number: COMP001022568724 
 

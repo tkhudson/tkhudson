@@ -43,7 +43,17 @@ Azure · Terraform · Bash · F5 Networking
 ```
 [→ View Repository](https://github.com/tkhudson/Bash-to-Terraform-Deployment)
 
-## 🤖 AI Integrated Projects
+## 🤖 AI Integrated Projects & OpenSource Projects
+
+#### OpenShorts  
+Change long form content into shorts, without all that annoying pizzaz. 
+
+**Tools & Skills:**  
+```
+Video Editing · AI/LLMs · Python
+```
+[→ View Repository](https://github.com/tkhudson/openshorts)
+
 
 #### Private RAG Knowledge Base Chatbot  
 Your personal, secure, fully private document Q&A assistant powered by Retrieval-Augmented Generation  
